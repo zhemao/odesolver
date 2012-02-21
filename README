@@ -1,0 +1,6 @@
+An ODE solver written in C.
+
+This library implements a first-order ODE solver using the rk4 algorithm 
+with and without adaptive stepping.
+
+
